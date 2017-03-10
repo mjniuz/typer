@@ -34,21 +34,27 @@ Pertanyaan:
         Docs    : http://glyphicons.com/examples-of-use/
 
 2. Aplikasi itu 'laggy'. Kenapa? Bagaimana cara membuat animasi lebih 'smooth'?
-    Kalau "laggy" yang dimaksud adalah lambat karena "waktu" bisa dirubah saja `animation_delay` ke lebih kecil yaitu `0` atau `10`,
+
+    - Kalau "laggy" yang dimaksud adalah lambat karena "waktu" bisa dirubah saja `animation_delay` ke lebih kecil yaitu `0` atau `10`,
     Dikarenakan value setInterval yang tinggi dapat menyebabkan performa gerakan menjadi lebih lamban
 
 3. Aplikasi itu tidak akan jalan di salah satu 3 browser populer (Chrome, Firefox, Internet Explorer)? Kenapa? Solusinya hanya menghapus satu character di code, character yang mana?    
-    Saya coba di Mozilla, Chrome, IE dan Microsoft Edge tidak ada masalah untuk memainkan game nya.
+
+    - Saya coba di Mozilla, Chrome, IE dan Microsoft Edge tidak ada masalah untuk memainkan game nya.
     Namun kemungkinan (highlight notif pada IDE PHPStorm) berasal dari koma pada Typer default,
 
 4. Implementasikan tombol Start, Stop, Pause, dan Resume.
-    Done, Anda bisa testing secara langsung pada demo
+
+    - Done, Anda bisa testing secara langsung pada demo
 
 5. Ketika ukuran window dirubah, susunan huruf yang 'terbentur' batas window menjadi tidak 1 baris. Benarkan.
-    Done, permasalahan pada css
+
+    - Done, permasalahan pada css
 
 6. Implementasikan sistem score.
-    Done.
+
+    - Done.
 
 7. Implementasikan hukuman berupa pengurangan nilai bila salah ketik.
-    Done
+
+    - Done
