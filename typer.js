@@ -171,7 +171,7 @@ var TyperView = Backbone.View.extend({
 				'z-index'	: 1000,
 				'border'	: '1px solid black',
 				'padding'	: '0 5px',
-				'width'		: '36px',
+				'width'		: '65px',
 				'background-color'	: 'orange'
 			});
 		this.score_game = score_game;
