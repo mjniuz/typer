@@ -42,7 +42,7 @@ Pertanyaan:
 3. Aplikasi itu tidak akan jalan di salah satu 3 browser populer (Chrome, Firefox, Internet Explorer)? Kenapa? Solusinya hanya menghapus satu character di code, character yang mana?    
 
     - Saya coba di Mozilla, Chrome, IE dan Microsoft Edge tidak ada masalah untuk memainkan game nya.
-    Namun kemungkinan (highlight notif pada IDE PHPStorm) berasal dari koma pada Typer default,
+    Namun kemungkinan permasalahan (menurut highlight notif pada IDE PHPStorm) berasal dari koma pada Typer default,
 
 4. Implementasikan tombol Start, Stop, Pause, dan Resume.
 
